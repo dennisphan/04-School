@@ -26,7 +26,7 @@ The academic dishonesty had a slight effect in the district summary.
 
 
 ### The school summary
-Only the results of 9th graders at Thomas High School were influenced, removed, and replaced by "NaN". Details are expressed below:
+The results of 9th graders at Thomas High School removed and replaced by "NaN". Only the result of Thomas High School was influenced. However, the difference was not significant. Details are expressed below:
 
 **The school summary before the changes at Thomas High School**
 ![The School Summary Before Changes at Thomas High School](Resources/Screenshots_Analysis_with_9th_THS/02_School_Summary.png)
