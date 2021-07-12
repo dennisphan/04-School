@@ -17,24 +17,72 @@ This project focuses on several metrics as valuable measurements:
 
 ### The district summary
 
+
+**The district summary before the changes at Thomas High School**
 ![The District Summary Before Changes at Thomas High School](Resources/Screenshots_Analysis_with_9th_THS/01_District_Summary.png)
+
+**The district summary after the changes at Thomas High School**
+![The District Summary After Changes at Thomas High School](Resources/Screenshots_Analysis_without_9th_THS/01_District_Summary.png)
 
 
 ### The school summary
 
+
+**The school summary before the changes at Thomas High School**
+![The School Summary Before Changes at Thomas High School](Resources/Screenshots_Analysis_with_9th_THS/02_School_Summary.png)
+
+**The school summary after the changes at Thomas High School**
+![The School Summary After Changes at Thomas High School](Resources/Screenshots_Analysis_without_9th_THS/02_School_Summary.png)
+
 ### Top 5 performing schools
+
+
+**Top 5 performing schools**
+![Top 5 schools](Resources/Screenshots_Analysis_without_9th_THS/03_Top_Schools.png)
 
 ### Top 5 bottom performing schools
 
+
+**Bottom 5 performing schools**
+![Bottom 5 schools](Resources/Screenshots_Analysis_without_9th_THS/03_Bottom_Schools.png)
+
 ### The average math scores by grades
+
+
+**The average math scores by grades before academic dishonesty**
+![The School Summary Before Changes at Thomas High School](Resources/Screenshots_Analysis_with_9th_THS/02_School_Summary.png)
+
+**The average math scores by grades after academic dishonesty**
+![The School Summary After Changes at Thomas High School](Resources/Screenshots_Analysis_without_9th_THS/02_School_Summary.png)
 
 ### The average reading scores by grades
 
+
+**The average reading scores by grades before academic dishonesty**
+![The School Summary Before Changes at Thomas High School](Resources/Screenshots_Analysis_with_9th_THS/02_School_Summary.png)
+
+**The average reading scores by grades after academic dishonesty**
+![The School Summary After Changes at Thomas High School](Resources/Screenshots_Analysis_without_9th_THS/02_School_Summary.png)
+
 ### The math and reading scores by school spendings
+
+
+**The averages scores by school spendings**
+![The Average Scores By School Spendings](Resources/Screenshots_Analysis_without_9th_THS/07_Scores_By_School_Spendings.png)
 
 ### The math and reading scores by school sizes
 
+
+**The averages scores by school sizes**
+![The Average Scores By School Sizes](Resources/Screenshots_Analysis_without_9th_THS/08_Scores_By_School_Sizes.png)
+
+
 ### The math and reading scores by school types
+
+
+**The averages scores by school types**
+![The Averages Scores By School Types](Resources/Screenshots_Analysis_without_9th_THS/09_Scores_By_School_Types.png)
+
 
 ## Results
 
